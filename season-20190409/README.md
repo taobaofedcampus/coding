@@ -22,9 +22,15 @@
 
 
 ### 测试用例
-定期开放
+周五开放
 
 
 ### 奖惩措施
 * 性能最好
 * 用例全对
+
+
+
+### 校园群传送门
+
+![image.png](https://cdn.nlark.com/yuque/0/2019/png/142797/1554179100454-2cd6fe03-d232-44d6-a1ae-07d96e438019.png#align=left&display=inline&height=387&name=image.png&originHeight=635&originWidth=633&size=204147&status=done&width=386)
