@@ -10,7 +10,7 @@
 
 注意：
 
-请大家于 `2019-04-19 15:00:00` 前提交代码。
+请大家于 `2019-04-19 16:00:00` 前提交代码。
 
 
 示例如下：
@@ -21,16 +21,32 @@
 ```
 
 
-### 测试用例
+## 代码提交规则
+通过PR上传代码
+```
+git clone https://github.com/taobaofedcampus/coding.git
+cd coding
+git checkout -b feat-[name]/20190409
+git add .
+git commit -m "my pr..."
+
+git push origin feat-[name]/20190409
+```
+更加详细的可以参考文档
+[https://www.zhihu.com/question/21682976/answer/79489643](https://www.zhihu.com/question/21682976/answer/79489643)
+
+PS：也可在微信群找群主提交代码
+
+## 测试用例
 周五开放
 
 
-### 奖惩措施
+## 奖惩措施
 * 性能最好
 * 用例全对
 
 
 
-### 校园群传送门
+## 校园群传送门
 
 ![image.png](https://cdn.nlark.com/yuque/0/2019/png/142797/1554179100454-2cd6fe03-d232-44d6-a1ae-07d96e438019.png#align=left&display=inline&height=387&name=image.png&originHeight=635&originWidth=633&size=204147&status=done&width=386)
