@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "benchmark": "^2.1.4",
+    "chalk": "^2.4.1",
+    "glob": "^7.1.2",
+    "jest": "^23.6.0",
+    "lodash": "^4.17.10"
+  },
+  "scripts": {
+    "test": "node ./season-20190409/test/index.test.js season-20190409"
+  }
+}
